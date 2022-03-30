@@ -1,6 +1,6 @@
 # Server Deployment
 
-We aim to deploy the server using the 'Bring Your Own License (BYOL)' Deployment model, where the license need to be purchased from the [OpenVPN.net] (OpenVPN.net) service, but we can also run the service without a license, with atmost 2 concurrent users at a time. 
+We aim to deploy the server using the 'Bring Your Own License (BYOL)' Deployment model, where the license need to be purchased from the [OpenVPN.net](OpenVPN.net) service, but we can also run the service without a license, with atmost 2 concurrent users at a time. 
 
 **I would advice to buy the free license**, which is essentially a signup procedure, after which you can have 3 concurrent users. 
 
