@@ -28,6 +28,6 @@ To launch the server,
 
 * Update the OS, by running the 
 Blockquotes
-> sudo apt-get update
+> sudo apt-get update <br>
 > sudo apt-get upgrade
 * You can add additional users from the web admin page
